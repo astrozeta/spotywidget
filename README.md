@@ -4,7 +4,7 @@ Spotify overlay widget for OBS using Authorization Code + PKCE.
 
 ## GitHub Pages
 
-Enable GitHub Pages from the `main` branch and use:
+Use:
 
 `https://astrozeta.github.io/spotywidget/spotify-widget.html`
 
@@ -13,5 +13,13 @@ Enable GitHub Pages from the `main` branch and use:
 Add this exact Redirect URI in the Spotify app settings:
 
 `https://astrozeta.github.io/spotywidget/spotify-widget.html`
+
+## OBS size
+
+Recommended browser source size:
+
+`760 x 96`
+
+If you need it smaller, keep the same wide banner proportion.
 
 The widget connects automatically. There is no visible connect button in OBS.
