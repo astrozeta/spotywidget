@@ -18,8 +18,8 @@ Add this exact Redirect URI in the Spotify app settings:
 
 Recommended browser source size:
 
-`760 x 96`
+`560 x 82`
 
-If you need it smaller, keep the same wide banner proportion.
+If a song title is very long, you can use `620 x 82` without changing the height.
 
 The widget connects automatically. There is no visible connect button in OBS.
